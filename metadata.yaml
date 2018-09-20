@@ -1,10 +1,13 @@
 _repo: Honore-de-Balzac_53398
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Desmond, David
     gutenberg_agent_id: '47358'
     url: http://www.gutenberg.org/2009/agents/47358
+covers:
+- cover_type: archival
+  image_path: 53398-h/images/cover.jpg
 creator:
   author:
     agent_name: Gautier, Théophile
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53398#Honore-de-Balzac
 gutenberg_issued: '2016-10-29'
 gutenberg_type: Text
 identifiers:
